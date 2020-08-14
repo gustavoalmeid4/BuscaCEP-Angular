@@ -9,8 +9,8 @@ import { map } from 'rxjs/operators';
 })
 export class TemplateFormComponent implements OnInit {
   usuario: any = {
-    // nome:'Gustavo Almeida ',
-    // email:'almeidacabuloso@email.com'
+    // nome:'xxxx',
+    // email:'xxxxx@email.com
   };
 
   constructor(private http: HttpClient) {}
